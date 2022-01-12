@@ -1,0 +1,8 @@
+print("helo , type in your name:")
+n=str(input())
+print("which place are you in")
+n=str(input())
+print("what is your age")
+p=int(input())
+print("from which clg you are")
+n=str(input())

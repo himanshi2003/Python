@@ -1,0 +1,27 @@
+a='PYTHON'
+print(a.islower())
+b='python'
+print(b.islower())
+c='PYTHON'
+print(c.isupper())
+d='python'
+print(d.isupper())
+a='PYTHON'
+print(a.islower())
+b='python'
+print(b.islower())
+c='PYTHON'
+print(c.isupper())
+d='python'
+print(d.isupper())
+e='123'
+print(e.isdigit())
+f='Hello'
+print(f.isalpha())
+g='hello123'
+print(g.isalnum())
+#for dash in py
+x='-------python--------'
+print(x.strip('-'))
+print(x.lstrip('-'))
+print(x.rstrip('-'))
